@@ -38,5 +38,5 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong backgroun
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/stanley-mungai/)
+- [LinkedIn](https://www.linkedin.com/in/stanley-mungai-1b3ba1194/)
 - [email](mailto:mungaistanley001@gmail.com)
