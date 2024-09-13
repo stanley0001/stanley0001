@@ -2,15 +2,15 @@
 
 **`Software Engineer | Backend Developer | Full Stack Developer`**
 
-Welcome to my GitHub! I'm a passionate software engineer with a strong background in backend development, integration with core banking systems, and building scalable applications. I enjoy solving complex problems and am always eager to learn new technologies and contribute to open-source projects.
+Welcome to my GitHub! I'm a passionate software engineer with a strong background in backend development, integration with complex thirdparty APIs, and building scalable applications. I enjoy solving complex problems and am always eager to learn new technologies.
 
 ## 🚀 About Me
 
 - 🎓 **Degree**: Bachelor's in Information Technology, majoring in Software Development.
 - 💻 **Experience**: Proficient in Java, Spring Boot, Golang, Python, Angular, and Laravel.
-- 📚 **Skills**: Integration with REST APIs, SOAP, Socket.IO, and more. Experienced in Docker, Kubernetes, and DevOps practices.
-- 💼 **Current Work**: Optimizing Spring Boot queries, designing multi-tenant systems, and integrating with core banking systems like.
-- 🏗️ **Projects**: Inventory management systems, loan calculators, web and mobile app development, and more.
+- 📚 **Skills**: Integration with REST APIs, SOAP and more. Experienced in Docker, Kubernetes, and DevOps practices.
+- 💼 **Current Work**: Optimizing Spring Boot queries, designing multi-tenant systems, and integrating with complex APIs like core banking systems.
+- 🏗️ **Projects**: Inventory management systems, loan calculators, web, mobile app development and more.
 - 🎯 **Goals**: Building SaaS products and teaching software engineering online.
 
 ## 🔧 Tech Stack
