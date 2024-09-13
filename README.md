@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong backgroun
 - 🎓 **Degree**: Bachelor's in Information Technology, majoring in Software Development.
 - 💻 **Experience**: Proficient in Java, Spring Boot, Golang, Python, Angular, and Laravel.
 - 📚 **Skills**: Integration with REST APIs, SOAP, Socket.IO, and more. Experienced in Docker, Kubernetes, and DevOps practices.
-- 💼 **Current Work**: Optimizing Spring Boot queries, designing multi-tenant systems, and integrating with core banking systems like T24 and Flexcube.
+- 💼 **Current Work**: Optimizing Spring Boot queries, designing multi-tenant systems, and integrating with core banking systems like.
 - 🏗️ **Projects**: Inventory management systems, loan calculators, web and mobile app development, and more.
 - 🎯 **Goals**: Building SaaS products and teaching software engineering online.
 
@@ -20,6 +20,7 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong backgroun
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
