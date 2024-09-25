@@ -6,10 +6,10 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong backgroun
 
 ## 🚀 About Me
 
-- 🎓 **Degree**: Bachelor's in Information Technology, majoring in Software Development.
+- 🎓 **Education**: Bachelor's in Information Technology, majoring in Software Development.
 - 💻 **Experience**: Proficient in Java, Spring Boot, Golang, Python, Angular, and Laravel.
 - 📚 **Skills**: Integration with REST APIs, SOAP and more. Experienced in Docker, Kubernetes, and DevOps practices.
-- 💼 **Current Work**: Optimizing Spring Boot queries, designing multi-tenant systems, and integrating with complex APIs like core banking systems.
+- 💼 **Current Work**: Optimizing Spring Boot queries, designing multi-tenant systems, and integrating with complex APIs.
 - 🏗️ **Projects**: Inventory management systems, loan calculators, Real Estate project, USSD development and more.
 - 🎯 **Goals**: Building SaaS products and teaching software engineering.
 
